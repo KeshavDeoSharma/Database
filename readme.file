@@ -1,0 +1,4 @@
+This is a project which will be built step by step
+1.So far we have tried to use AOP for logging purpose using our custom annotation
+2.Next is we will focus on jpa queries
+
